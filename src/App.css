@@ -1,1 +1,16 @@
 /*  DONT FORGET TO MAKE IT PURDY!!! */
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.text-shadow {
+  text-shadow: 5px 5px 4px rgb(102, 0, 0);
+}
+.text-shadow2 {
+  text-shadow: 3px 3px 2px rgb(0, 0, 104);
+}
+
+.box-shadow {
+  box-shadow: 2px 2px 5px rgb(0, 0, 104);
+}
+.box-shadow:hover {
+  box-shadow: 5px 9px 10px rgb(80, 78, 0);
+}

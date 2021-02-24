@@ -31,12 +31,12 @@ const MusicalKeyButton = (props) => {
 
   return (
     <button 
-      className="w3 h5 ma3"
+      className="w3 h5 ma3 br3 bg-blue box-shadow hover-bg-light-purple grow pointer"
       id={props.id}
       note={props.note} 
       onClick={handleClick}
     >
-      <h2>{props.id}</h2>
+      <h2 className="light-blue text-shadow2">{props.id}</h2>
     </button>
   );
 }
@@ -44,12 +44,12 @@ const MusicalKeyButton = (props) => {
 ////////////////////////////////////////////////////////////////////////////
 function App() {
   return (
-    <div className="app">
+    <div className="app bg-light-pink">
       {/* APP TITLE */}
-      <h1 className="tc">Reign's Xylophone</h1>
+      <h1 className="tc fw9 f1 tracked light-blue bg-dark-pink pa3 text-shadow">Reign's Xylophone</h1>
 
       {/* BUTTON "KEYS" */}
-      <div className="xylophone tc">
+      <div className="xylophone tc bg-yellow shadow-5">
         <MusicalKeyButton 
           id={notes[0].name} 
           note={notes[0].file}
