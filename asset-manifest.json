@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Reigns-Xylophone/static/css/main.6d5ad2b4.chunk.css",
-    "main.js": "/Reigns-Xylophone/static/js/main.b0d93721.chunk.js",
-    "main.js.map": "/Reigns-Xylophone/static/js/main.b0d93721.chunk.js.map",
+    "main.css": "/Reigns-Xylophone/static/css/main.1dfe78a2.chunk.css",
+    "main.js": "/Reigns-Xylophone/static/js/main.fb568e9d.chunk.js",
+    "main.js.map": "/Reigns-Xylophone/static/js/main.fb568e9d.chunk.js.map",
     "runtime-main.js": "/Reigns-Xylophone/static/js/runtime-main.592c3257.js",
     "runtime-main.js.map": "/Reigns-Xylophone/static/js/runtime-main.592c3257.js.map",
     "static/css/2.31461e4f.chunk.css": "/Reigns-Xylophone/static/css/2.31461e4f.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.c89dbd7d.chunk.js.map": "/Reigns-Xylophone/static/js/2.c89dbd7d.chunk.js.map",
     "index.html": "/Reigns-Xylophone/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/Reigns-Xylophone/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.6d5ad2b4.chunk.css.map": "/Reigns-Xylophone/static/css/main.6d5ad2b4.chunk.css.map",
+    "static/css/main.1dfe78a2.chunk.css.map": "/Reigns-Xylophone/static/css/main.1dfe78a2.chunk.css.map",
     "static/js/2.c89dbd7d.chunk.js.LICENSE.txt": "/Reigns-Xylophone/static/js/2.c89dbd7d.chunk.js.LICENSE.txt",
     "static/media/a.66679435.wav": "/Reigns-Xylophone/static/media/a.66679435.wav",
     "static/media/b.a16f0e73.wav": "/Reigns-Xylophone/static/media/b.a16f0e73.wav",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.592c3257.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.c89dbd7d.chunk.js",
-    "static/css/main.6d5ad2b4.chunk.css",
-    "static/js/main.b0d93721.chunk.js"
+    "static/css/main.1dfe78a2.chunk.css",
+    "static/js/main.fb568e9d.chunk.js"
   ]
 }
